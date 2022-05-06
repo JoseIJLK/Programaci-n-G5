@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May  6 08:15:50 2022
-
-@author: Alumno
-"""
 dict1={"Juan":"10.10.10.1",
        1:"1478596235",
        "Telefono":"3962823",
