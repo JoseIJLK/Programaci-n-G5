@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  6 07:41:22 2022
-
-@author: Alumno
-"""
 x=int()
 y=float()
 z=str()
