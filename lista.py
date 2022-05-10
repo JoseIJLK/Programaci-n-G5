@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  6 08:03:34 2022
-
-@author: Alumno
-"""
 lista1=[6,589.8,True,False,"Cisco",5,8,"Networking",85.9]
 print(type(lista1))
 print(lista1)
