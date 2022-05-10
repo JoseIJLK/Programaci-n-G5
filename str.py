@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  6 07:35:09 2022
-
-@author: Alumno
-"""
 str1="Cisco"
 str2="Networking"
 str3="Academy"
