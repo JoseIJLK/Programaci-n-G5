@@ -20,15 +20,14 @@ while num1<=n:
     while num2<=m:
         r=num2*num1
         print(num2,"x",num1,"=",r)
-        num2=num2+1
+        num2+=1
         if r%2==0:  
-            par=par+1
+            par+=1
         else:
-            impar=impar+1
-        suma=suma+r
-        promedio=suma//15
-    num1=num1+1
+            impar+=1
+        suma+=r
+    num1+=1
     print("La suma de los valores es:",suma)
-    print("El promedio es:",promedio)
+    print("El promedio es:",suma//m)
     print("Hay",par,"numeros pares")
     print("Hay",impar,"numeros impares","\n")
