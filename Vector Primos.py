@@ -4,7 +4,7 @@ def vector():
     primos=[]
     num=int(input("Ingrese la dimensión del vector: "))
     for n in range(num):
-        r=random.randint(50, 100)
+        r=random.randint(0, 100)
         vector.append(r)
         def numprimos(r, i=2):
             if i >= r:
